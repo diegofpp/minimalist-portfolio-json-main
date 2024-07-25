@@ -1,0 +1,304 @@
+{
+  "basics": {
+    "name": "Diego Fernández Porzio",
+    "label": "Tecnico en Computación",
+    "image": "https://avatars.githubusercontent.com/u/43652067?v=4",
+    "email": "difepor@gmail.com",
+    "phone": "+56964473945",
+    "url": "",
+    "summary": "Tengo más de 2 años de experiencia en soporte a clientes en redes empresariales, brindando soporte a aplicaciones web y software corporativo. He desarrollado habilidades en la resolución de problemas técnicos, la instalación y mantenimiento de redes, y la asistencia técnica a usuarios finales. Busco hacer la transición al desarrollo web frontend, aplicando mi pasión por la tecnología para crear interfaces de usuario atractivas y funcionales. Estoy comprometido con el aprendizaje continuo y la contribución a proyectos innovadores.",
+    "location": {
+      "address": "",
+      "postalCode": "8320000",
+      "city": "Santiago",
+      "countryCode": "CL",
+      "region": "Chile"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "diego-fernandez-porzio-822778245",
+        "url": "https://www.linkedin.com/in/diego-fernandez-porzio-822778245"
+      },
+       {
+         "network": "X",
+         "username": "midudev",
+         "url": "https://x.com/midudev"
+       },
+      {
+        "network": "GitHub",
+        "username": "diegofpp",
+        "url": "https://github.com/diegofpp"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Fulldeploy",
+      "position": "Agencia de Diseño Web - Proyecto Personal",
+      "url": "",
+      "startDate": "2022-01-01",
+      "endDate": "2021-05-01",
+      "summary": "Con laa idea de adentrarme en el desarrollo y diseño web inicié fulldeploy.cl, una pequeña agencia online que busca ofrecer la creacion de sitios webs a negocios que están dando sus primeros pasos en internet. En una primera etapa consegui implementar tiendas online con Wordpress y Woocommerce, gestionando la creacion de etiquetas y productos, optimizando el SEO para el correcto posicionamiento y la carga de imagenes para lograr un buen rendimiento. ",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Entel Call Center",
+      "position": "Técnico en soporte computacional orientado a software y plataformas web",
+      "url": "",
+      "startDate": "2022-01-01",
+      "endDate": "2021-05-01",
+      "summary": "Respondí a solicitudes de soporte nivel 1 y 2, diagnostiqué y resolví problemas básicos en navegadores, sistemas operativos y aplicaciones web de uso interno (area médica, gestion de usuarios y reserva de horas medicas), resolví incidencias con sistemas de tickets. Instalé y configuré software, asistí en el uso de plataformas CMS y de comercio electrónico (para area retail), y gestioné cuentas y accesos con AD y SAP. Colaboré con equipos de nivel superior en problemas complejos y documenté soluciones para problemas recurrentes.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Entel",
+      "position": "Técnico en Instalaciones de Telecomunicaciones en Fibra Optica",
+      "url": "",
+      "startDate": "2018-01-01",
+      "endDate": "2020-05-01",
+      "summary": "Realicé la instalación y configuración de redes FTTH GPON, incluyendo la conexión de cables de fibra óptica desde el punto de acceso hasta la vivienda del cliente. Mi labor abarcó la instalación de equipos como ONT/ONU, splitters, y cajas de terminales, así como la realización de pruebas de señal con OTDR y medidores de potencia óptica. Manejo de fallos en la fibra, reparación de cables, y diagnóstico de problemas fueron parte de los trabajos ejecutados. Generé informes sobre incidencias y acciones correctivas. Utilicé herramientas especializadas como empalmadoras de fibra y escáneres de redes para garantizar un servicio de alta calidad.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Vtr-Claro",
+      "position": "Técnico en Instalaciones de Telecomunicaciones",
+      "url": "",
+      "startDate": "2015-06-01",
+      "endDate": "2016-12-01",
+      "summary": "Como Técnico me encargué de la instalación desde el poste hasta la casa del cliente, asegurando la correcta implementación del cable coaxial y normativa vigente. Configuré y puse en marcha módems y routers, realizando pruebas de señal para optimizar la recepción y transmisión. Utilicé herramientas de diagnóstico para identificar y resolver fallos en la conexión, abordando problemas de interferencia y atenuación. Realicé mantenimientos preventivos y correctivos, atendiendo incidencias para garantizar la operación continua de la red. Documenté cada instalación y reparación, manteniendo registros precisos. Seguí rigurosamente las normativas de seguridad y los procedimientos operativos, aplicando prácticas seguras en trabajos en altura y espacios confinados.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Neonex",
+      "position": "Técnico en Soporte Informático",
+      "startDate": "2013-01-01",
+      "endDate": "2014-05-01",
+      "summary": "Entregué soporte en un edificio de oficinas comerciales poniendo en marcha un sistema de tickets con servicenow mejorando tiempos de respuesta y la eficiencia en la resolución de problemas de los clientes. También realizé la instalación y configuración de redes de datos en el edificio, incorporando clientes nuevos y actualizando los sistemas existentes. ",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "Duoc UC",
+    "url": "https://www.duoc.cl",
+    "area": "Técnico en Computación",
+    "studyType": "Técnico",
+    "startDate": "2011-03-01",
+    "endDate": "2013-08-01",
+    "score": "4.0",
+    "courses": [
+      ""
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "Figma",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "WordPress",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "mars.codes",
+      "isActive": true,
+      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "highlights": [
+        "Elige tu propia aventura",
+        "En desarrollo"
+      ],
+      "url": "https://mars.codes"
+    },
+    {
+      "name": "AdventJS",
+      "isActive": true,
+      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "highlights": [
+        "+1 millón de visitas",
+        "Multidioma",
+        "JavaScript & TypeScript"
+      ],
+      "url": "https://adventjs.dev"
+    },
+    {
+      "name": "Codember",
+      "isActive": true,
+      "description": "Juego interactivo de programación con retos y secretos",
+      "highlights": [
+        "+2000 usuarios activos",
+        "Retos para cualquier lenguaje"
+      ],
+      "url": "https://codember.dev"
+    },
+    {
+      "name": "codi.link",
+      "isActive": true,
+      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "highlights": [
+        "100k visitas al mes",
+        "Desarrollado por la comunidad"
+      ],
+      "url": "https://codi.link",
+      "github": "https://github.com/midudev/codi.link"
+    },
+    {
+      "name": "Pruebas Técnicas",
+      "isActive": true,
+      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "highlights": [
+        "100% gratuito",
+        "+500 soluciones de la comunidad"
+      ],
+      "url": "https://pruebastecnicas.com",
+      "github": "https://github.com/midudev/pruebas-tecnicas"
+    },
+    {
+      "name": "miduConf",
+      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+      "highlights": [
+        "+15k tickets repartidos",
+        "+50k espectadores en directo"
+      ],
+      "url": "https://miduconf.com"
+    }
+  ]
+}
