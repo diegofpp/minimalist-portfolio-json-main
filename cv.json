@@ -22,8 +22,8 @@
       },
        {
          "network": "X",
-         "username": "midudev",
-         "url": "https://x.com/midudev"
+         "username": "",
+         "url": ""
        },
       {
         "network": "GitHub",
@@ -37,8 +37,8 @@
       "name": "Fulldeploy",
       "position": "Agencia de Diseño Web - Proyecto Personal",
       "url": "",
-      "startDate": "2022-01-01",
-      "endDate": "2021-05-01",
+      "startDate": "2022-06-01",
+      "endDate": "2024-01-01",
       "summary": "Con laa idea de adentrarme en el desarrollo y diseño web inicié fulldeploy.cl, una pequeña agencia online que busca ofrecer la creacion de sitios webs a negocios que están dando sus primeros pasos en internet. En una primera etapa consegui implementar tiendas online con Wordpress y Woocommerce, gestionando la creacion de etiquetas y productos, optimizando el SEO para el correcto posicionamiento y la carga de imagenes para lograr un buen rendimiento. ",
       "highlights": [
         "Started the company"
@@ -48,8 +48,8 @@
       "name": "Entel Call Center",
       "position": "Técnico en soporte computacional orientado a software y plataformas web",
       "url": "",
-      "startDate": "2022-01-01",
-      "endDate": "2021-05-01",
+      "startDate": "2021-01-01",
+      "endDate": "2022-05-01",
       "summary": "Respondí a solicitudes de soporte nivel 1 y 2, diagnostiqué y resolví problemas básicos en navegadores, sistemas operativos y aplicaciones web de uso interno (area médica, gestion de usuarios y reserva de horas medicas), resolví incidencias con sistemas de tickets. Instalé y configuré software, asistí en el uso de plataformas CMS y de comercio electrónico (para area retail), y gestioné cuentas y accesos con AD y SAP. Colaboré con equipos de nivel superior en problemas complejos y documenté soluciones para problemas recurrentes.",
       "highlights": [
         "Started the company"
