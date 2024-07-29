@@ -44,17 +44,7 @@
         "Started the company"
       ]
     },
-    {
-      "name": "Entel Call Center",
-      "position": "Técnico en soporte computacional orientado a software y plataformas web",
-      "url": "",
-      "startDate": "2021-01-01",
-      "endDate": "2022-05-01",
-      "summary": "Respondí a solicitudes de soporte nivel 1 y 2, diagnostiqué y resolví problemas básicos en navegadores, sistemas operativos y aplicaciones web de uso interno (area médica, gestion de usuarios y reserva de horas medicas), resolví incidencias con sistemas de tickets. Instalé y configuré software, asistí en el uso de plataformas CMS y de comercio electrónico (para area retail), y gestioné cuentas y accesos con AD y SAP. Colaboré con equipos de nivel superior en problemas complejos y documenté soluciones para problemas recurrentes.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
+   
     {
       "name": "Entel",
       "position": "Técnico en Instalaciones de Telecomunicaciones en Fibra Optica",
