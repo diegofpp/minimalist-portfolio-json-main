@@ -2,11 +2,11 @@
   "basics": {
     "name": "Diego Fernández Porzio",
     "label": "Tecnico en Computación",
-    "image": "https://z-p3-scontent.fkna2-1.fna.fbcdn.net/v/t1.6435-9/86264184_1702210789921099_3489945061561466880_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeELosPIlxJggB5eE_CY0M6peoWMtdUXk3V6hYy11ReTdbHP8gIIkxnVR04qtkrHeKaKdx0BGBvEZMxicA35fcnU&_nc_ohc=M1BPNMf4h7EQ7kNvwF1D5qa&_nc_oc=AdkkaOD6GOxSNlhB2oS8mICGmhfSkIf8GUkYnHPM3P6i6tDU4yMDbQxR3VHpEAzybII&_nc_zt=23&_nc_ht=z-p3-scontent.fkna2-1.fna&_nc_gid=_HELv_u6TnV4HPY1h66nww&oh=00_AfqMcYIw-GdGxqtEtz4kqWqXOrUZS5WuCE5-07fsa5OdXg&oe=698BCF6D",
+    "image": "me.png",
     "email": "difepor@gmail.com",
     "phone": "+56964473945",
     "url": "",
-    "summary": "Fecha de nacimiento: 15 de Marzo de 1993. Tengo más de 2 años de experiencia en soporte a clientes en redes empresariales, brindando soporte a aplicaciones web y software corporativo. He desarrollado habilidades en la resolución de problemas técnicos, la instalación y mantenimiento de redes, y la asistencia técnica a usuarios finales, estoy comprometido con el aprendizaje continuo y la contribución a proyectos innovadores. Disponibilidad Inmediata",
+    "summary": "Fecha de nacimiento: 15 de Marzo de 1993. Tengo más de 2 años de experiencia en soporte a clientes en redes empresariales, brindando soporte a aplicaciones web y software corporativo. He desarrollado habilidades en la resolución de problemas técnicos, la instalación y mantenimiento de redes, y la asistencia técnica a usuarios finales, estoy comprometido con el aprendizaje continuo y la contribución a proyectos innovadores.",
     "location": {
       "address": "",
       "postalCode": "2150000",
@@ -33,6 +33,19 @@
     ]
   },
   "work": [
+
+    {
+      "name": "Entel en SICE",
+      "position": "Tecnico Telco-Multiproceso",
+      "url": "",
+      "startDate": "2026-01-15",
+      "endDate": "2026-09-01",
+      "summary": "Participé en la ejecución de servicios Internet Seguro y Dedicado, abarcando desde el despliegue de infraestructura GPON hasta la configuración de firewalls Fortinet/FortiGate como CPE.\nGestión operativa de órdenes de trabajo mediante plataforma WFM, asegurando el cumplimiento de KPIs de instalación, prevención y certificación de servicios.\nImplementación de soluciones de conectividad híbrida y satelital (Starlink/MPLS) y telefonía IP con equipos Grandstream.\nAplicación de estándares de calidad y auditoría técnica (FIA/CESOP) para garantizar la continuidad del servicio.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+
     {
       "name": "VTR - Zener",
       "position": "Tecnico ATC",
